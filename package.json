@@ -1,0 +1,22 @@
+{
+  "name": "wyswyg-helper",
+  "version": "1.0.0",
+  "description": "wyswys helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikitaurensia/wyswyg-helper.git"
+  },
+  "keywords": [
+    "helper"
+  ],
+  "author": "Diki Taurens Sia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikitaurensia/wyswyg-helper/issues"
+  },
+  "homepage": "https://github.com/dikitaurensia/wyswyg-helper#readme"
+}
