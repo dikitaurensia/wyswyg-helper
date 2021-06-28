@@ -1,6 +1,6 @@
 {
   "name": "wyswyg-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "wyswys helper",
   "main": "index.js",
   "scripts": {
