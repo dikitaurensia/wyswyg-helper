@@ -9,4 +9,12 @@ function makeKey(lengthWorld) {
     return result;
 }
 
-export { makeKey }
+function searchArray(nameKey, valueKey, myArray) {
+    for (var i = 0; i < myArray.length; i++) {
+        if (myArray[i][nameKey] === valueKey) {
+            return { ...myArray[i], urut: i };
+        }
+    }
+}
+
+export { makeKey, searchArray }
